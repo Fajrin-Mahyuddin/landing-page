@@ -252,6 +252,9 @@ body {
   }
 
   .footer {
+    position: absolute;
+    bottom: 10px;
+    z-index: 2;
     color: white;
   }
 }
